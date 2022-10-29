@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981605190354",
+    "project_id": "numismatics-task",
+    "storage_bucket": "numismatics-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981605190354:android:86f06709224ec049d6fb0b",
+        "android_client_info": {
+          "package_name": "com.example.login_ui_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981605190354-f6ulumimmg9cvv23448ctse4h8envseg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_ui_flutter",
+            "certificate_hash": "679b62bffc025586979ac0614631573b8d8c755e"
+          }
+        },
+        {
+          "client_id": "981605190354-qpohf431ji5t61grugbpu06l9gonkl1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0k-9OrvmeEw1sR8fPn3IsUM3Y0a_rbJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981605190354-qpohf431ji5t61grugbpu06l9gonkl1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
